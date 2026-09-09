@@ -93,3 +93,14 @@ git branch --list
 ## Marge conflict
 
 ## Git stash
+
+## Git ignore file
+```git
+git rm --cached test.js
+```
+
+## Pull request
+
+## Gir forking
+
+git diff test.js
